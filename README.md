@@ -64,3 +64,99 @@ Responsibilities included:
 Architecture Lead – Engine Systems
 
 Key contributions:
+
+- ECU Integration
+- EE Architecture
+- System Requirements
+- Thermal & EMC Compliance
+- Cross-functional Coordination
+
+### Continental Automotive
+
+Hardware Lead
+
+Activities included:
+
+- Infotainment Systems
+- RF Validation
+- GPS & Cellular Systems
+- Hardware Improvements
+- Field Return Analysis
+- 8D Investigations
+- APQP & PPAP
+
+---
+
+## Technical Expertise
+
+### Hardware Engineering
+
+- Electronic Systems
+- Hardware Integration
+- Component Validation
+- Product Development
+- Design Reviews
+
+### Automotive Systems
+
+- Telematics
+- Connectivity
+- ADAS
+- Steering Systems
+- Engine Control
+- Infotainment
+
+### Validation & Quality
+
+- APQP
+- PPAP
+- DFMEA
+- AMDEC
+- Root Cause Analysis
+- 8D
+- EMC
+
+### Tools
+
+- CANoe
+- CANalyzer
+- Jira
+- CATIA V5
+- SolidWorks
+- TeamCenter
+- SystemWeaver
+- DOORS
+
+---
+
+## Education
+
+Master's Degree in Mechatronics Engineering
+
+National School of Applied Sciences (ENSA)
+
+---
+
+## Languages
+
+- French
+- English
+- Swedish
+
+---
+
+## Engineering Philosophy
+
+Technology is successful when hardware, software, system architecture, validation, and suppliers work together toward a common objective.
+
+My focus is building reliable, scalable, and future-ready automotive systems through structured engineering, collaboration, and technical excellence.
+
+---
+
+## Contact
+
+LinkedIn: Coming Soon
+
+Location: Sweden
+
+Email: Available upon request
